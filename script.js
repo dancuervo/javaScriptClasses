@@ -1,5 +1,8 @@
 
-//Ejercicios con clases
+/*Ejercicios con clases
+    la notación _variable indica um atributo privado al que solamente se puede
+    acceder desde la clase con un getter
+*/
 
     
     class User{
